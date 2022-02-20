@@ -54,7 +54,7 @@
   <a href="https://www.codechef.com/user/kamran1819g">
     <img src="https://img.icons8.com/ios/50/000000/codechef.png" alt="codechef logo" style="max-width: 100%;">
   </a>
-  <a href="#">
+  <a href="https://www.hackerrank.com/Kamran1819g">
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="HackerRank logo" style="max-width: 100%;">
   </a>
   </p>
