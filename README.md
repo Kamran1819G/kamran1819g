@@ -4,6 +4,9 @@
 But be welcome! Take a look around and if you have any questions, feel free to ask them via email or socials!
 
 <p align="center" dir="auto">
+    <a href="https://linuxmastertutorials.blogapot.com" rel="nofollow">
+        <img src="https://img.icons8.com/color/96/000000/blogger.png" alt="personal" style="max-width: 100%">
+    </a>
     <a href="https://www.linkedin.com/in/kamran1819g" rel="nofollow">
         <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" alt="Personal" style="max-width: 100%;">
     </a>
@@ -39,7 +42,7 @@ But be welcome! Take a look around and if you have any questions, feel free to a
     <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="python logo" style="max-width: 100%;">
     </a>
   </p>
-<h2>Github Stats</h2>
+<h2 align="center">Github Stats</h2>
     
 <h1>Find me elsewhere</h1>
   <p align="center" dir="auto">
