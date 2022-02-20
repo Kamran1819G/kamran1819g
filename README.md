@@ -4,7 +4,7 @@
 But be welcome! Take a look around and if you have any questions, feel free to ask them via email or socials!
 
 <p align="center" dir="auto">
-    <a href="https://linuxmastertutorials.blogapot.com" rel="nofollow">
+    <a href="https://linuxmastertutorials.blogspot.com" rel="nofollow">
         <img src="https://img.icons8.com/color/96/000000/blogger.png" alt="personal" style="max-width: 100%">
     </a>
     <a href="https://www.linkedin.com/in/kamran1819g" rel="nofollow">
