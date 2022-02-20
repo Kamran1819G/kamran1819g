@@ -1,10 +1,10 @@
 ### <h1 align="center">Hi! I'm Kamran Khan <h1>
-<h5>I'm Kamran Khan first year student 👨‍🎓 pursuing Computer Science and Engineering specialized in the field of Artifical Technology and Machine Learning. Is there already going to ring a 🔔? I always say: "We build bridges so that a user can use systems, websites or apps in the most pleasant way possible".</h5>
+<h4>I'm Kamran Khan first year student 👨‍🎓 pursuing Computer Science and Engineering specialized in the field of Artifical Technology and Machine Learning. Is there already going to ring a 🔔? I always say: "We build bridges so that a user can use systems, websites or apps in the most pleasant way possible".</h4>
 
 But be welcome! Take a look around and if you have any questions, feel free to ask them via email or socials!
 
 <p align="center" dir="auto">
-    <a href="https://www.linkedin.com/in/kamran-khan-0707aa319b" rel="nofollow">
+    <a href="https://www.linkedin.com/in/kamran1819g" rel="nofollow">
         <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" alt="Personal" style="max-width: 100%;">
     </a>
     <a href="https://www.instagram.com/kamran1819g" rel="nofollow">
