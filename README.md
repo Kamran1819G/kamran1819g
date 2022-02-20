@@ -54,7 +54,7 @@
     <!-- Find me Elsewhere -->
 <h1>Find me elsewhere</h1>
   <p align="center" dir="auto">
-  <a href="https://www.codechef.com/user/kamran1819g">
+  <a href="https://www.codechef.com/users/kamran1819g">
     <img src="https://img.icons8.com/ios/50/000000/codechef.png" alt="codechef logo" style="max-width: 100%;">
   </a>
   <a href="https://www.hackerrank.com/Kamran1819g">
