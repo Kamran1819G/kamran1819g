@@ -27,7 +27,7 @@ But be welcome! Take a look around and if you have any questions, feel free to a
       <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3 Logo" style="max-width: 100%;">
     </a>
     <a>
-      <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" alt="Javascript Logo" style="max-width: 100%;">
+      <img src="https://img.icons8.com/color/96/000000/javascript--v2.png" alt="Javascript Logo" style="max-width: 100%;">
     </a>
     <a>
       <img src="https://img.icons8.com/fluency/96/000000/visual-studio-code-2019.png" alt="Visual Studio Code Logo" style="max-width: 100%;">
@@ -42,8 +42,10 @@ But be welcome! Take a look around and if you have any questions, feel free to a
     <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="python logo" style="max-width: 100%;">
     </a>
   </p>
-<h2 align="center">Github Stats</h2>
-    
+    <h2 align="center">Github Stats</h2>
+    <p align="center"><a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github" >    <img  alt="Kamran1819g's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Kamran1819g?cardType=github&theme=dark" />  
+    </a>
+    </p>
 <h1>Find me elsewhere</h1>
   <p align="center" dir="auto">
   <a href="https://www.codechef.com/user/kamran1819g">
