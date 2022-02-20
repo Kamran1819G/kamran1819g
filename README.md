@@ -17,7 +17,7 @@
         <img src="https://img.icons8.com/fluency/96/000000/facebook-new.png" alt="Facebook" style="max-width: 100%;">
     </a>
 <a href="#" rel="nofollow">
-        <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" style="max-width: 100%;">
+        <img src="https://img.icons8.com/fluency/96/000000/twitter.png" alt="Twitter" style="max-width: 100%;">
     </a>
 </p>
 <!-- Programming Languages -->
