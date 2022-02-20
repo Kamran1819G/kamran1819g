@@ -4,7 +4,7 @@
 But be welcome! Take a look around and if you have any questions, feel free to ask them via email or socials!
 
 <p align="center" dir="auto">
-    <a href="#" rel="nofollow">
+    <a href="https://www.linkedin.com/in/kamran-khan-0707aa319b" rel="nofollow">
         <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" alt="Personal" style="max-width: 100%;">
     </a>
     <a href="https://www.instagram.com/kamran1819g" rel="nofollow">
