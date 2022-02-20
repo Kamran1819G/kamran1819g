@@ -1,11 +1,11 @@
-### <h1 align="center">Hi! I'm Kamran Khan <h1>
+<h1 align="center">Hi! I'm Kamran Khan <h1>
 <h4>I'm Kamran Khan first year student 👨‍🎓 pursuing Computer Science and Engineering specialized in the field of Artifical Technology and Machine Learning. Is there already going to ring a 🔔? I always say: "We build bridges so that a user can use systems, websites or apps in the most pleasant way possible".</h4>
 
 But be welcome! Take a look around and if you have any questions, feel free to ask them via email or socials!
 
 <p align="center" dir="auto">
     <a href="https://linuxmastertutorials.blogspot.com" rel="nofollow">
-        <img src="https://img.icons8.com/color/96/000000/blogger.png" alt="personal" style="max-width: 100%">
+        <img src="https://img.icons8.com/carbon-copy/100/000000/domain.png" alt="personal" style="max-width: 100%">
     </a>
     <a href="https://www.linkedin.com/in/kamran1819g" rel="nofollow">
         <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" alt="Personal" style="max-width: 100%;">
@@ -43,7 +43,7 @@ But be welcome! Take a look around and if you have any questions, feel free to a
     </a>
   </p>
 <h2 align="center">Github Stats</h2>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamran1819g)](https://github.com/anuraghazra/github-readme-stats)
+    
 <h1>Find me elsewhere</h1>
   <p align="center" dir="auto">
   <a href="https://www.codechef.com/user/kamran1819g">
