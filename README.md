@@ -43,7 +43,7 @@ But be welcome! Take a look around and if you have any questions, feel free to a
     </a>
   </p>
 <h2 align="center">Github Stats</h2>
-    
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamran1819g)](https://github.com/anuraghazra/github-readme-stats)
 <h1>Find me elsewhere</h1>
   <p align="center" dir="auto">
   <a href="https://www.codechef.com/user/kamran1819g">
