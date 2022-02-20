@@ -5,7 +5,7 @@ But be welcome! Take a look around and if you have any questions, feel free to a
 
 <p align="center" dir="auto">
     <a href="https://linuxmastertutorials.blogspot.com" rel="nofollow">
-        <img src="https://img.icons8.com/carbon-copy/100/000000/domain.png" alt="personal" style="max-width: 100%">
+        <img src="https://img.icons8.com/plasticine/100/000000/domain.png" alt="personal" style="max-width: 100%">
     </a>
     <a href="https://www.linkedin.com/in/kamran1819g" rel="nofollow">
         <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" alt="Personal" style="max-width: 100%;">
