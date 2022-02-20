@@ -39,6 +39,8 @@ But be welcome! Take a look around and if you have any questions, feel free to a
     <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="python logo" style="max-width: 100%;">
     </a>
   </p>
+<h2>Github Stats</h2>
+    
 <h1>Find me elsewhere</h1>
   <p align="center" dir="auto">
   <a href="https://www.codechef.com/user/kamran1819g">
