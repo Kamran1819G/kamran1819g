@@ -1,6 +1,6 @@
 <!-- About Me -->
 <h1 align="center">Hi! I'm Kamran Khan <h1>
-<h4>I'm Kamran Khan first year student 👨‍🎓 pursuing Computer Science and Engineering specialized in the field of Artifical Technology and Machine Learning. Is there already going to ring a 🔔? I always say: "We build bridges so that a user can use systems, websites or apps in the most pleasant way possible".</h4>
+<h4>I'm Kamran Khan first year student 👨‍🎓 pursuing Computer Science and Engineering specializing in the field of Artifical Intelligence and Machine Learning. Is there already going to ring a 🔔? I always say: "We build bridges so that a user can use systems, websites or apps in the most pleasant way possible".</h4>
 <h4>But be welcome! Take a look around and if you have any questions, feel free to ask them via email or socials!</h4>
 <!-- Social Media -->
 <p align="center" dir="auto">
