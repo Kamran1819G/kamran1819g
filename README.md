@@ -4,7 +4,7 @@
 <h4>But be welcome! Take a look around and if you have any questions, feel free to ask them via email or socials!</h4>
 <!-- Social Media -->
 <p align="center" dir="auto">
-    <a href="https://linuxmastertutorials.blogspot.com" rel="nofollow" >
+    <a href="https://kamran1819g.github.io" rel="nofollow" >
         <img src="https://img.icons8.com/plasticine/100/000000/domain.png" alt="personal" style="max-width: 100%">
     </a>
     <a href="https://www.linkedin.com/in/kamran1819g" rel="nofollow">
