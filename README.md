@@ -8,7 +8,7 @@
         <img src="https://img.icons8.com/plasticine/100/000000/domain.png" alt="personal" style="max-width: 100%">
     </a>
     <a href="https://www.linkedin.com/in/kamran1819g" rel="nofollow">
-        <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" alt="Personal" style="max-width: 100%;">
+        <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" alt="Linkedin" style="max-width: 100%;">
     </a>
     <a href="https://www.instagram.com/kamran1819g" rel="nofollow">
         <img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" alt="Instagram" style="max-width: 100%;">
@@ -16,7 +16,7 @@
     <a href="https://www.facebook.com/kamran1819g" rel="nofollow">
         <img src="https://img.icons8.com/fluency/96/000000/facebook-new.png" alt="Facebook" style="max-width: 100%;">
     </a>
-<a href="#" rel="nofollow">
+<a href="https://twitter.com/Kamran1819G" rel="nofollow">
         <img src="https://img.icons8.com/fluency/96/000000/twitter.png" alt="Twitter" style="max-width: 100%;">
     </a>
 </p>
