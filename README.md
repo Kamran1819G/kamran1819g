@@ -30,7 +30,7 @@
         <img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C programming logo" style="max-width: 100%;">
     </a>
     <a>
-        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java logo" style="max-width: 100%;"/>
+        <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png" alt="Java logo" style="max-width: 100%;"/>
     </a>
     <a>
         <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="python logo" style="max-width: 100%;">
