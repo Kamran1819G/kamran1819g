@@ -48,19 +48,15 @@
         <img src="https://img.icons8.com/fluency/96/000000/visual-studio-code-2019.png" alt="Visual Studio Code Logo" style="max-width: 100%;">
     </a>
   </p>
-    <!-- Github-stats -->
-    <h2 align="center">Github Stats</h2>
-    <p align="center">
-        <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github" >    <img  alt="Kamran1819g's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Kamran1819g?cardType=github&theme=dark" />  
-        </a>
-    </p>
-    <!-- Find me Elsewhere -->
-<h1>Find me elsewhere</h1>
-  <p align="center" dir="auto">
-  <a href="https://www.codechef.com/users/kamran1819g">
-    <img src="https://img.icons8.com/ios/50/000000/codechef.png" alt="codechef logo" style="max-width: 100%;">
-  </a>
-  <a href="https://www.hackerrank.com/Kamran1819g">
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="HackerRank logo" style="max-width: 100%;">
-  </a>
-  </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kamran1819G&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kamran1819G&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamran1819G&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kamran1819G&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Kamran1819G) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kamran1819G) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kamran1819G) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Kamran1819G) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Kamran1819G) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Kamran1819G) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kamran1819G) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/Kamran1819G) 
+## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Kamran1819G) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Kamran1819G)
