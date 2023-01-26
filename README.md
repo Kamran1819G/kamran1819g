@@ -1,7 +1,9 @@
 <!-- About Me -->
-<h1 align="center">Hi!👋🏻, I'm Kamran Khan</h1>
-<h4>I'm Kamran Khan second year student 👨‍🎓 pursuing Computer Science and Engineering specializing in the field of Artifical Intelligence and Machine Learning. Is there already going to ring a 🔔? I always say: "We build bridges so that a user can use systems, websites or apps in the most pleasant way possible".</h4>
-<h4>But be welcome! Take a look around and if you have any questions, feel free to ask them via email or socials!</h4>
+# <p align="center">Hi!👋🏻,Welcome to my GitHub profile!</p>
+#### I am a software developer with experience in multiple programming languages and frameworks. I have a strong background in computer science principles, data structures, algorithms, and problem-solving. My passion is to create innovative solutions and continuously learn new technologies.
+#### 🔍 Here you will find a variety of projects I have worked on, including personal projects, contributions to open-source projects, and projects from hackathons. Feel free to explore and give feedback.
+#### 🚀 My goal is to contribute to open-source projects and collaborate with a diverse team of developers to create impactful and innovative solutions while continuously learning and improving my skills.
+#### 🤝🏻Please feel free to reach out if you want to collaborate on a project or just want to connect 
 <!-- Social Media -->
 <p align="center" dir="auto">
     <a href="https://kamran1819g.github.io" rel="nofollow" >
